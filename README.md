@@ -11,4 +11,5 @@
 [Duke Forge](https://forge.duke.edu/)
 
 [Duke Forge Presents Data Science Symposium](https://forge.duke.edu/news/duke-forge-presents-data-science-symposium)
- May 9th at 10:00 AM ET in Duke’s Trent Semans Center Great Hall for the first Duke Forge Health Data Science Symposium: Health Science and the Four Fs: Foibles, Frontiers, Fit-for-Purpose, and the Future of a Learning Health System. For those who are unable to attend in person, a remote videoconference option will be available.
+
+May 9th at 10:00 AM ET in Duke’s Trent Semans Center Great Hall for the first Duke Forge Health Data Science Symposium: Health Science and the Four Fs: Foibles, Frontiers, Fit-for-Purpose, and the Future of a Learning Health System. For those who are unable to attend in person, a remote videoconference option will be available.
