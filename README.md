@@ -16,6 +16,13 @@ May 9th at 10:00 AM ET in Duke’s Trent Semans Center Great Hall for the first 
 
 ## Research Lab
 * [Pearson Lab](https://github.com/pearsonlab)
+* [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/)
+* [Duke Robotics, Intelligence, and Vission](http://driv.cs.duke.edu/wiki/index.php?n=Main.People)
+* [Rebecca Steorts](http://www2.stat.duke.edu/~rcs46/)
+* [Leslie Collins Applied Machine Learning Lab](http://amll.pratt.duke.edu/)
+* [Guillermo Sapiro](http://sapirolab.pratt.duke.edu/)
+* [Leslie Collins](http://hal.pratt.duke.edu/people)
+
 
 ## Datasets
 * [Datasets](http://www2.stat.duke.edu/~mc301/data/)
