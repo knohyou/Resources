@@ -24,6 +24,16 @@ May 9th at 10:00 AM ET in Duke’s Trent Semans Center Great Hall for the first 
 * [Missy Cummings](http://hal.pratt.duke.edu/people)
 * [ECE Project List](http://ece.duke.edu/grad/students/masters-student-research-opportunities)
 * [Scott Huettel](https://sites.duke.edu/huettellab/research/)
+* [Research Assistant Position: TReAD Lab, Emory University](http://www.treadlab.org/)
+
+## Internship and Job Posings
+* [Pyschology and Neuroscience](http://psychandneuro.duke.edu/undergraduate/research-opportunities-jobs?qt-opportunities=1&page=5)
+* [Dr. Morey Lab Research Assistant](http://psychandneuro.duke.edu/undergraduate/research-opportunities-jobs?qt-opportunities=1&page=5)
+* [Data Manager in the Laboratory of NeuroGenetics (LoNG) at Duke University](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25017&siteid=5172&PageType=JobDetails&jobid=1239653#jobDetails=1239653_5172)
+* [Lab Coordinator Purdue](http://purdue.taleo.net/careersection/wl/jobdetail.ftl?job=1800504&tz=GMT-04%3A00)
+* [Tread Lab Research Assistant](http://www.treadlab.org/join-the-lab/)\
+* [Austin Though Lab](http://www.austinthought.org/)
+* [CS UNC](https://cs.unc.edu/research/areas/)
 
 ## Datasets
 * [Datasets](http://www2.stat.duke.edu/~mc301/data/)
