@@ -21,8 +21,9 @@ May 9th at 10:00 AM ET in Duke’s Trent Semans Center Great Hall for the first 
 * [Rebecca Steorts](http://www2.stat.duke.edu/~rcs46/)
 * [Leslie Collins Applied Machine Learning Lab](http://amll.pratt.duke.edu/)
 * [Guillermo Sapiro](http://sapirolab.pratt.duke.edu/)
-* [Leslie Collins](http://hal.pratt.duke.edu/people)
-
+* [Missy Cummings](http://hal.pratt.duke.edu/people)
+* [ECE Project List](http://ece.duke.edu/grad/students/masters-student-research-opportunities)
+* [Scott Huettel](https://sites.duke.edu/huettellab/research/)
 
 ## Datasets
 * [Datasets](http://www2.stat.duke.edu/~mc301/data/)
