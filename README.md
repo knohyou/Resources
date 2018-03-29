@@ -25,6 +25,12 @@ May 9th at 10:00 AM ET in Duke’s Trent Semans Center Great Hall for the first 
 * [ECE Project List](http://ece.duke.edu/grad/students/masters-student-research-opportunities)
 * [Scott Huettel](https://sites.duke.edu/huettellab/research/)
 * [Research Assistant Position: TReAD Lab, Emory University](http://www.treadlab.org/)
+* [Mohit Bansal](https://cs.unc.edu/~mbansal/)
+* [Tamara L. Berg](http://www.tamaraberg.com/)
+* [Berg](http://acberg.com/)
+* [Christopher G healey](https://www.csc2.ncsu.edu/faculty/healey/#student-div) - webapplications data mining
+* [Tim Menzies](http://menzies.us/bio.html)
+* [David Carlson]
 
 ## Internship and Job Posings
 * [Pyschology and Neuroscience](http://psychandneuro.duke.edu/undergraduate/research-opportunities-jobs?qt-opportunities=1&page=5)
