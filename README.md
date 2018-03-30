@@ -25,12 +25,13 @@ May 9th at 10:00 AM ET in Duke’s Trent Semans Center Great Hall for the first 
 * [ECE Project List](http://ece.duke.edu/grad/students/masters-student-research-opportunities)
 * [Scott Huettel](https://sites.duke.edu/huettellab/research/)
 * [Research Assistant Position: TReAD Lab, Emory University](http://www.treadlab.org/)
-* [Mohit Bansal](https://cs.unc.edu/~mbansal/)R
+* [Mohit Bansal](https://cs.unc.edu/~mbansal/)
 * [Tamara L. Berg](http://www.tamaraberg.com/)
 * [Berg](http://acberg.com/)
 * [Christopher G healey](https://www.csc2.ncsu.edu/faculty/healey/#student-div) - webapplications data mining
 * [Tim Menzies](http://menzies.us/bio.html)
-* David Carlson
+* [David Carlson]
+
 
 ## Internship and Job Posings
 * [Pyschology and Neuroscience](http://psychandneuro.duke.edu/undergraduate/research-opportunities-jobs?qt-opportunities=1&page=5)
@@ -40,18 +41,13 @@ May 9th at 10:00 AM ET in Duke’s Trent Semans Center Great Hall for the first 
 * [Tread Lab Research Assistant](http://www.treadlab.org/join-the-lab/)\
 * [Austin Though Lab](http://www.austinthought.org/)
 * [CS UNC](https://cs.unc.edu/research/areas/)
-* [Duke Analyst, IT](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25017&siteid=5172#jobDetails=1228050_5172)
-* [Research Technician II - Neurology](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25017&siteid=5172#jobDetails=1244835_5172)
-* [Biostatistician II](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25017&siteid=5172#jobDetails=1244849_5172)
-* [Data Manager](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25017&siteid=5172#jobDetails=1239653_5172)
-* [Biostatistician II - Anaestheiology](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25017&siteid=5172#jobDetails=1228548_5172)
-* [Analyst Programmer I](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25017&siteid=5172#jobDetails=1238421_5172)
-* [DHTS IT ANALYST - Analytic Center of Excellence](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25017&siteid=5172#jobDetails=1217384_5172)
-* [Research Analyst](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25017&siteid=5172#jobDetails=1246402_5172)
-* [Financial Analyst I-Radiology](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25017&siteid=5172#jobDetails=1234289_5172)
-* [DHTS IT ANALYST - PORT BA](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25017&siteid=5172#jobDetails=1239638_5172)
-* [DHTS IT ANALYST - DART BA/BID](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25017&siteid=5172#jobDetails=1240357_5172)
-
+* [UNC Imaging](http://www.med.unc.edu/bric/ideagroup/job-opportunity/job-opportunity) - Software Engineer for Infant Brain Image Processing
+* [Research Assistant - Psychology](https://unc.peopleadmin.com/postings/137677)
+* [Research Assistant - Psychology](https://unc.peopleadmin.com/postings/137598)
+* [Database](https://unc.peopleadmin.com/postings/137323)
+* [Database](https://unc.peopleadmin.com/postings/137075)
+* [IT](https://unc.peopleadmin.com/postings/136282)
+* [Research Scholar Temp](https://unc.peopleadmin.com/postings/129766)
 
 ## Datasets
 * [Datasets](http://www2.stat.duke.edu/~mc301/data/)
